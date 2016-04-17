@@ -4,13 +4,12 @@
   "description": "Slack Bot for HPD's NBA channel",
   "repository": {
     "type": "git",
-    "url": "http://github.com/mzappitello/austin.git"
+    "url": "https://github.com/mike-zappitello-mkrbt/austin"
   },
   "author": "mike zappitello",
   "license": "MIT",
   "dependencies": {
-      "nba": "file:../nba",
-      "slack-client": "file:../old-slack",
+      "slack-client": "latest",
       "named-regexp": "latest",
       "node-schedule": "latest"
   },
